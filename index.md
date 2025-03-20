@@ -4,4 +4,4 @@
 #### H4
 ##### H5
 ###### H6
-<img src="https://octodex.github.com/images/yaktocat.png" alt="Image of Yaktocat">
+<img src="![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)" alt="Image of Yaktocat">
